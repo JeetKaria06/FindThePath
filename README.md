@@ -7,4 +7,4 @@ This project was our SEM II project of Data Structures And Algorithm Project.
 Frontend part by : Rahul Chocha  https://www.linkedin.com/in/rahul-chocha-14b391179 And 
 Backend part by : Jeet Karia  https://www.linkedin.com/in/jeet-karia-628773170
 
-To understand project in detail go to 10.13140/RG.2.2.23590.88641
+To understand project in detail go to https://www.researchgate.net/publication/338540725_Shortest_Path_Finder_Implementation_of_Dijkstra%27s_Algorithm_Data_Structures_And_Algorithms1
